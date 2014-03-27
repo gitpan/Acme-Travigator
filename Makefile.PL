@@ -21,7 +21,7 @@ my %WriteMakefileArgs = (
   "NAME" => "Acme::Travigator",
   "PREREQ_PM" => {},
   "TEST_REQUIRES" => {},
-  "VERSION" => "0.004",
+  "VERSION" => "0.005",
   "test" => {
     "TESTS" => "t/*.t"
   }

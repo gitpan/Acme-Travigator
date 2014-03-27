@@ -16,6 +16,9 @@ sub travigate {
         "I am not sure where you want to go\n",
         "These are not the droids you are looking for\n",
         "What can you make of this?\n",
+        "Is it 4 yet?\n",
+        "Left turn?\n",
+        "Would you like fries with that?\n",
     );
     my $index = int(rand(@directions));
     return $directions[$index];
@@ -35,7 +38,7 @@ Acme::Travigator - who needs google when you have the travigator
 
 =head1 VERSION
 
-version 0.004
+version 0.005
 
 =head1 SYNOPSIS
 

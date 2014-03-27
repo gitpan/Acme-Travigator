@@ -15,4 +15,4 @@ name: Acme-Travigator
 resources:
   homepage: https://github.com/mattmonsen/Acme-Travigator
   repository: https://github.com/mattmonsen/Acme-Travigator.git
-version: 0.004
+version: 0.005
